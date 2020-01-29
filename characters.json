@@ -1,0 +1,527 @@
+{
+    "characters":
+    [
+      {
+        "id": "1",
+        "name": "Luke Skywalker",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN_ijFQJatBU3FxKKhIDsRseVOnzjkieU2o_ATT8xHwc1SlEdR",
+        "url": "https://swapi.co/api/people/1/"
+      },
+      {
+        "id": "2",
+        "name": "C-3PO",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpg0_ItEH_9H4xNPAJwUeiA_B5ZAEmXzK0LWicl7WOLnYnVDyU",
+        "url": "https://swapi.co/api/people/2/"
+      },
+      {
+        "id": "3",
+        "name": "R2-D2",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsuwQ5ZTj7Amdr4BEypKUM_avUgkPPTUPEaXsR4ReR31JZduHs",
+        "url": "https://swapi.co/api/people/3/"
+      },
+      {
+          "id": 4,
+          "name": "Darth Vader",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUs6wWbt177VVHIPa5xsOBolqlOLDKfODvpSsToLuwTtblCysE",
+          "url": "https://swapi.co/api/people/4/"
+      },
+      {
+          "id": 5,
+          "name": "Leia Organa",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxEeVijO3WmybOJY7xHIhub7fBUht4W7wXMiPumrd41JdKJzII",
+          "url": "https://swapi.co/api/people/5/"
+      },
+      {
+          "id": 6,
+          "name": "Owen Lars",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQU5WM4eXQJXIsjMa_egL991nCKd1bxGo-NptyN2QPJoB5C5fdU",
+          "url": "https://swapi.co/api/people/6/"
+      },
+      {
+          "id": 7,
+          "name": "Beru Whitesun lars",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWwzCUbGKuD_n8_IoBsaaHwS5urDB4TqtF5uWhz7CfLZi5Xwvq",
+          "url": "https://swapi.co/api/people/7/"
+      },
+      {
+          "id": 8,
+          "name": "R5-D4",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSHgc2dqzdWLc-ob_pw3GYikQX6W0ZbPAOkGndb2EbhWF3_n2t",
+          "url": "https://swapi.co/api/people/8/"
+      },
+      {
+          "id": 9,
+          "name": "Biggs Darklighter",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXVE2zbfy8uAJ7HQ7bVrNdmO0b_zPnawIwPDbbcmCa001Z3Hlz",
+          "url": "https://swapi.co/api/people/9/"
+      },
+      {
+          "id": 10,
+          "name": "Obi Wan Kenobi",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZzRFzk3UrcIvpW3AKRJdwPcplvnn5l5NgZAtIDdVE70Rwbkcj",
+          "url": "https://swapi.co/api/people/10/"
+      },
+      {
+          "id": 11,
+          "name": "Anakin Skywalker",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7OQod3BnBvdFox3aEiQSHjrTB4Un1yVjdb8D48tzL4MP-23iN",
+          "url": "https://swapi.co/api/people/11/"
+      },
+      {
+          "id": 12,
+          "name": "Wilhuff Tarkin",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAg6i793s4MbbhHfDRcEDTTY9x2nHqGnuIBbJBk4dmb4iWFUzH",
+          "url": "https://swapi.co/api/people/12/"
+      },
+      {
+          "id": 13,
+          "name": "Chewbacca",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS65I2eCY2rYywhxBLFs20RhlUi3Y8VvQN1h59rIVIda5XbeQyD",
+          "url": "https://swapi.co/api/people/13/"
+      },
+      {
+          "id": 14,
+          "name": "Han Solo",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVps076nRC2mB7x5JaMj4WhndtXzWyyiDPLegSlUnJ5mi2Z7uv",
+          "url": "https://swapi.co/api/people/14/"
+      },
+      {
+          "id": 15,
+          "name": "Greedo",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXgk4aoc-jlhPJTn5j2iFG7eFNw4-fcK7UzWxyAmWnLerCIqUV",
+          "url": "https://swapi.co/api/people/15/"
+      },
+      {
+          "id": 16,
+          "name": "Jabba Sesilijic Tiure",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-NK2aWsh-75n7_DjzGdNq3X6NKgD6I6-c3QZCHmRevt_PTd5s",
+          "url": "https://swapi.co/api/people/16/"
+      },
+      {
+          "id": 18,
+          "name": "Wedge Antilles",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrWj_mKOg1LaFE4jY1rtM75p-1TxxH-_K57G_d81jpO9Zkgsdt",
+          "url": "https://swapi.co/api/people/18/"
+      },
+      {
+          "id": 19,
+          "name": "Jek Tono Porkins",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQg4UlA_yp_GSpk59IAgFIxFq7S_COuj89nAWED2Y53PWlmGVQD",
+          "url": "https://swapi.co/api/people/19/"
+      },
+      {
+          "id": 20,
+          "name": "Yoda",
+          "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/45/Yoda.jpg/250px-Yoda.jpg",
+          "url": "https://swapi.co/api/people/20/"
+      },
+      {
+          "id": 21,
+          "name": "Palpatine",
+          "image": "https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/05/ian-mcdiarmid-as-emperor-palpatine-in-return-of-the-jedi-1068x601.jpg",
+          "url": "https://swapi.co/api/people/21/"
+      },
+      {
+        "id": "22",
+        "name": "Boba Fett",
+        "image": "https://abrilveja.files.wordpress.com/2016/05/alx_boba-fett_original-e1468942648658.jpeg",
+        "url": "https://swapi.co/api/people/22/"
+      },
+      {
+        "id": "23",
+        "name": "IG-88",
+        "image": "https://rihappy.vteximg.com.br/arquivos/ids/405366-400-400/figura-articulada-colecionavel-15-cm-disney-star-wars-archive-ig-88-hasbro-E3253_Frente.jpg?v=637105411276870000",
+        "url": "https://swapi.co/api/people/23/"
+      },
+      {
+        "id": "24",
+        "name": "Bossk",
+        "image": "https://vignette.wikia.nocookie.net/pt.starwars/images/d/d2/Bossk.jpg/revision/latest/top-crop/width/360/height/450?cb=20091228170433",
+        "url": "https://swapi.co/api/people/24/"
+      },
+      {
+        "id": "25",
+        "name": "Lando Calrissian",
+        "image": "https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/07/Lando.jpg",
+        "url": "https://swapi.co/api/people/25/"
+      },
+      {
+        "id": "26",
+        "name": "Lobot",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/databank_lobot_01_169_8a50d7ae.jpeg?region=0%2C0%2C1560%2C878&width=960",
+        "url": "https://swapi.co/api/people/26/"
+      },
+      {
+        "id": "27",
+        "name": "Ackbar",
+        "image": "https://www.minhaseriefavorita.com/wp-content/uploads/2018/06/almirante-ackbar-its-a-trap-minhaseriefavorita-850x510.jpg",
+        "url": "https://swapi.co/api/people/27/"
+      },
+      {
+        "id": "28",
+        "name": "Mon Mothma",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d9/MonMothma2.jpg/revision/latest?cb=20070615223341",
+        "url": "https://swapi.co/api/people/28/"
+      },
+      {
+        "id": "29",
+        "name": "Arvel Crynyd",
+        "image": "https://comicvine1.cbsistatic.com/uploads/scale_medium/5/51078/1160353-arvel_crynyd.jpg",
+        "url": "https://swapi.co/api/people/29/"
+      },
+      {
+        "id": "30",
+        "name": "Wicket Systri Warrick",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Wicket_W_Warrick.png/220px-Wicket_W_Warrick.png",
+        "url": "https://swapi.co/api/people/30/"
+      },
+      {
+        "id": "31",
+        "name": "Nien Nunb",
+        "image": "https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2020/01/Nien-Nunb.jpg",
+        "url": "https://swapi.co/api/people/31/"
+      },
+      {
+        "id": "32",
+        "name": "Qui-Gon Jinn",
+        "image": "https://ovicio.com.br/wp-content/uploads/star-wars-10.png",
+        "url": "https://swapi.co/api/people/32/"
+      },
+      {
+        "id": "33",
+        "name": "Nute Gunray",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/databank_nutegunray_01_169_9d66ded2.jpeg?region=0%2C0%2C1560%2C878&width=960",
+        "url": "https://swapi.co/api/people/33/"
+      },
+      {
+        "id": "34",
+        "name": "Finis Valorum",
+        "image": "http://pm1.narvii.com/7076/de4ced88340b1e9fa8f37acc602920f8980a5a56r1-1022-467v2_uhq.jpg",
+        "url": "https://swapi.co/api/people/34/"
+      },
+      {
+        "id": "36",
+        "name": "Jar Jar Binks",
+        "image": "http://br.web.img2.acsta.net/r_640_360/newsv7/18/07/04/15/20/1736018.jpg",
+        "url": "https://swapi.co/api/people/36/"
+      },
+      {
+        "id": "37",
+        "name": "Roos Tarpals",
+        "image": "https://i.ytimg.com/vi/SL5qHl6KizQ/hqdefault.jpg",
+        "url": "https://swapi.co/api/people/37/"
+      },
+      {
+        "id": "38",
+        "name": "Rugor Nass",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/databank_bossnass_01_169_ef11c0db.jpeg?region=0%2C0%2C1560%2C878&width=960",
+        "url": "https://swapi.co/api/people/38/"
+      },
+      {
+        "id": "39",
+        "name": "Ric Olié",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/databank_ricolie_01_169_f175f81b.jpeg?region=0%2C0%2C1560%2C878&width=960",
+        "url": "https://swapi.co/api/people/39/"
+      },
+      {
+        "id": "40",
+        "name": "Watto",
+        "image": "http://images4.wikia.nocookie.net/__cb20070808233829/starwars/images/8/87/Wattoclose.jpg",
+        "url": "https://swapi.co/api/people/40/"
+      },
+      {
+        "id": "41",
+        "name": "Sebulba",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/sebulba_1f3fe180.jpeg?region=0%2C0%2C2453%2C1380&width=960",
+        "url": "https://swapi.co/api/people/41/"
+      },
+      {
+        "id": "42",
+        "name": "Quarsh Panaka",
+        "image": "http://pm1.narvii.com/6401/44f6f4593bcbe8c6d95a156e6c2aabbb2955ef45_00.jpg",
+        "url": "https://swapi.co/api/people/42/"
+      },
+      {
+        "id": "43",
+        "name": "Shmi Skywalker",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/databank_shmiskywalkerlars_01_169_7449f0a8.jpeg?region=0%2C0%2C1560%2C878&width=960",
+        "url": "https://swapi.co/api/people/43/"
+      },
+      {
+        "id": "44",
+        "name": "Darth Maul",
+        "image": "",
+        "url": "https://swapi.co/api/people/44/"
+      },
+      {
+        "id": "45",
+        "name": "Bib Fortuna",
+        "image": "",
+        "url": "https://swapi.co/api/people/45/"
+      },
+      {
+        "id": "46",
+        "name": "Ayla Secura",
+        "image": "",
+        "url": "https://swapi.co/api/people/46/"
+      },
+      {
+        "id": "48",
+        "name": "Dud Bolt",
+        "image": "",
+        "url": "https://swapi.co/api/people/48/"
+      },
+      {
+        "id": "49",
+        "name": "Gasgano",
+        "image": "",
+        "url": "https://swapi.co/api/people/49/"
+      },
+      {
+        "id": "50",
+        "name": "Ben Quadinaros",
+        "image": "",
+        "url": "https://swapi.co/api/people/50/"
+      },
+      {
+        "id": "51",
+        "name": "Mace Windu",
+        "image": "",
+        "url": "https://swapi.co/api/people/51/"
+      },
+      {
+        "id": "52",
+        "name": "Ki-Adi-Mundi",
+        "image": "",
+        "url": "https://swapi.co/api/people/52/"
+      },
+      {
+        "id": "53",
+        "name": "Kit Fisto",
+        "image": "",
+        "url": "https://swapi.co/api/people/53/"
+      },
+      {
+        "id": "54",
+        "name": "Eeth Koth",
+        "image": "",
+        "url": "https://swapi.co/api/people/54/"
+      },
+      {
+        "id": "55",
+        "name": "Adi Gallia",
+        "image": "",
+        "url": "https://swapi.co/api/people/55/"
+      },
+      {
+        "id": "56",
+        "name": "Saesee Tiin",
+        "image": "",
+        "url": "https://swapi.co/api/people/56/"
+      },
+      {
+        "id": "57",
+        "name": "Yarael Poof",
+        "image": "",
+        "url": "https://swapi.co/api/people/57/"
+      },
+      {
+        "id": "58",
+        "name": "Plo Koon",
+        "image": "",
+        "url": "https://swapi.co/api/people/58/"
+      },
+      {
+        "id": "59",
+        "name": "Mas Amedda",
+        "image": "",
+        "url": "https://swapi.co/api/people/59/"
+      },
+      {
+        "id": "60",
+        "name": "Gregar Typho",
+        "image": "",
+        "url": "https://swapi.co/api/people/60/"
+      },
+      {
+        "id": "61",
+        "name": "Cordé",
+        "image": "",
+        "url": "https://swapi.co/api/people/61/"
+      },
+      {
+        "id": "62",
+        "name": "Cliegg Lars",
+        "image": "",
+        "url": "https://swapi.co/api/people/62/"
+      },
+      {
+        "id": "63",
+        "name": "Poggle the Lesser",
+        "image": "",
+        "url": "https://swapi.co/api/people/63/"
+      },
+      {
+        "id": "64",
+        "name": "Luminara Unduli",
+        "image": "",
+        "url": "https://swapi.co/api/people/64/"
+      },
+      {
+        "id": "65",
+        "name": "Barriss Offee",
+        "image": "",
+        "url": "https://swapi.co/api/people/65/"
+      },
+      {
+        "id": "66",
+        "name": "Dormé",
+        "image": "",
+        "url": "https://swapi.co/api/people/66/"
+      },
+      {
+        "id": "67",
+        "name": "Dooku",
+        "image": "",
+        "url": "https://swapi.co/api/people/67/"
+      },
+      {
+        "id": "68",
+        "name": "Bail Prestor Organa",
+        "image": "",
+        "url": "https://swapi.co/api/people/68/"
+      },
+      {
+        "id": "69",
+        "name": "Jango Fett",
+        "image": "",
+        "url": "https://swapi.co/api/people/69/"
+      },
+      {
+        "id": "70",
+        "name": "Zam Wesell",
+        "image": "",
+        "url": "https://swapi.co/api/people/70/"
+      },
+      {
+        "id": "71",
+        "name": "Dexter Jettster",
+        "image": "",
+        "url": "https://swapi.co/api/people/71/"
+      },
+      {
+        "id": "72",
+        "name": "Lama Su",
+        "image": "",
+        "url": "https://swapi.co/api/people/72/"
+      },
+      {
+        "id": "73",
+        "name": "Taun We",
+        "image": "",
+        "url": "https://swapi.co/api/people/73/"
+      },
+      {
+        "id": "74",
+        "name": "Jocasta Nu",
+        "image": "",
+        "url": "https://swapi.co/api/people/74/"
+      },
+      {
+        "id": "47",
+        "name": "Ratts Tyerell",
+        "image": "",
+        "url": "https://swapi.co/api/people/47/"
+      },
+      {
+        "id": "75",
+        "name": "R4-P17",
+        "image": "",
+        "url": "https://swapi.co/api/people/75/"
+      },
+      {
+        "id": "76",
+        "name": "Wat Tambor",
+        "image": "",
+        "url": "https://swapi.co/api/people/76/"
+      },
+      {
+        "id": "77",
+        "name": "San Hill",
+        "image": "",
+        "url": "https://swapi.co/api/people/77/"
+      },
+      {
+        "id": "78",
+        "name": "Shaak Ti",
+        "image": "",
+        "url": "https://swapi.co/api/people/78/"
+      },
+      {
+        "id": "79",
+        "name": "Grievous",
+        "image": "",
+        "url": "https://swapi.co/api/people/79/"
+      },
+      {
+        "id": "80",
+        "name": "Tarfful",
+        "image": "",
+        "url": "https://swapi.co/api/people/80/"
+      },
+      {
+        "id": "81",
+        "name": "Raymus Antilles",
+        "image": "",
+        "url": "https://swapi.co/api/people/81/"
+      },
+      {
+        "id": "82",
+        "name": "Sly Moore",
+        "image": "",
+        "url": "https://swapi.co/api/people/82/"
+      },
+      {
+        "id": "83",
+        "name": "Tion Medon",
+        "image": "",
+        "url": "https://swapi.co/api/people/83/"
+      },
+      {
+        "id": "84",
+        "name": "Finn",
+        "image": "",
+        "url": "https://swapi.co/api/people/84/"
+      },
+      {
+        "id": "85",
+        "name": "Rey",
+        "image": "",
+        "url": "https://swapi.co/api/people/85/"
+      },
+      {
+        "id": "86",
+        "name": "Poe Dameron",
+        "image": "",
+        "url": "https://swapi.co/api/people/86/"
+      },
+      {
+        "id": "87",
+        "name": "BB8",
+        "image": "",
+        "url": "https://swapi.co/api/people/87/"
+      },
+      {
+        "id": "88",
+        "name": "Captain Phasma",
+        "image": "",
+        "url": "https://swapi.co/api/people/88/"
+      },
+      {
+        "id": "35",
+        "name": "Padmé Amidala",
+        "image": "",
+        "url": "https://swapi.co/api/people/35/"
+      }
+    ]
+}
