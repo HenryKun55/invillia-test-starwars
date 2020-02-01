@@ -29,8 +29,8 @@ const Home: React.FC = () => {
   }, []);
 
   return (
-    <GridList cellHeight={200} spacing={20}>
-      <GridListTile key="Subheader" cols={2} style={{ height: 'auto' }}>
+    <GridList cellHeight={200} spacing={20} style={{ textAlign: 'center' }}>
+      <GridListTile key="Subheader" cols={2} style={{ height: 50 }}>
         <Header>Personagens</Header>
       </GridListTile>
       {characters.map((char, key) => (

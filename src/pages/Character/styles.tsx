@@ -6,4 +6,6 @@ export const To = styled(Link)`
     color: #808080;
 `;
 
-export const Container = styled.div``;
+export const Container = styled.div`
+
+`;

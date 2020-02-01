@@ -4,7 +4,7 @@ import backgroundGif from '../assets/background.gif';
 
 export default createGlobalStyle`
 
-    @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Poller+One&display=swap');
 
     * {
         margin: 0;
@@ -19,7 +19,8 @@ export default createGlobalStyle`
     }
 
     body, input, button {
-        font: 14px Montserrat sans-serif;
+        font-family: 'Poller One', cursive;
+        font-size: 14px;
     }
 
     #root {
