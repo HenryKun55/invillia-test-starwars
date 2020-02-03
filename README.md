@@ -2,7 +2,7 @@
 
 Lista de todos os personangens e naves com suas respectivas informações.
 
-### Bibliotecas utilizidas
+### Bibliotecas Utilizadas
 
 [Typescript](https://www.typescriptlang.org/), 
 [React Router Dom](https://reacttraining.com/react-router/web/), 
@@ -12,7 +12,7 @@ Lista de todos os personangens e naves com suas respectivas informações.
 [ES Lint](https://eslint.org/), 
 [Prettier](https://prettier.io/), 
 
-## 🚀 Instalação e execução
+## 🚀 Instalação e Execução
 
 1. Abra o terminal do seu computador. Se estiver no Windows pode ser o CMD ou Powershell.
 2. Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.
