@@ -1,17 +1,23 @@
 # Teste Invillia
 
-Para rodar o projeto precisa ter instalado o [json-server](https://github.com/typicode/json-server)
+### Apresentação
 
-Depois de instalar, vá até a raiz do projeto e execute: 
+Lista de todos os personangens e naves com suas respectivas informações.  
+
+Para instalar basta:
 
 ```bash
-json-server characters.json -p 3333
+yarn
+or
+npm install
 ```
 
-Depois só rodar o projeto 
+E depois de instalar só iniciar:
 
 ```bash
 yarn start
+or
+npm run start
 ```
 
-E voilà!
+Aproveite :)
