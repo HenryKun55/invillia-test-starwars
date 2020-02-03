@@ -18,6 +18,7 @@ import { Starship } from '../../types/Starship';
 
 import api from '../../services/api';
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const Character: React.FC = (props: any) => {
   const [character, setCharacter] = useState<ICharacter>();
   const [loadingChar, setLoadingChar] = useState<boolean>(true);
