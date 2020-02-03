@@ -16,15 +16,20 @@ Para instalar basta:
 
 ```bash
 yarn
-//or
+````
+ou 
+```bash
 npm install
 ```
 
 E depois de instalar só iniciar:
 
+
 ```bash
 yarn start
-//or
+````
+ou 
+```bash
 npm run start
 ```
 
