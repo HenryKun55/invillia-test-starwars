@@ -22,6 +22,10 @@ ou
 npm install
 ```
 
+
+
+
+
 E depois de instalar só iniciar:
 
 
@@ -33,4 +37,4 @@ ou
 npm run start
 ```
 
-Aproveite :)
+### Aproveite :)
